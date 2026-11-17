@@ -1,0 +1,6 @@
+{
+  "name": "Wener Developer",
+  "description": "Developer-first fintech API infrastructure for automated payouts, wallet funding, real-time webhooks, and instant digital settlements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
